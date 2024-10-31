@@ -36,11 +36,11 @@ A. Algoritma Program
    
    Jika nilai a lebih besar dari max:
    
-     Perbarui nilai max dengan nilai a.
+          Perbarui nilai max dengan nilai a.
    
    Jika nilai a adalah 0:
    
-     Hentikan looping dengan perintah break.
+          Hentikan looping dengan perintah break.
    
 6. Setelah keluar dari looping, tampilkan "Bilangan terbesar adalah:" diikuti dengan nilai dari max.
 7. Selesai.
