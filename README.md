@@ -9,11 +9,11 @@ A. ALGORITMA PROGRAM
 5. Inisialisasi variabel a dengan nilai 0.
 6. Ulangi sebanyak nilai jumlah yang dimasukkan pengguna:
    
-   Tambahkan 1 ke variabel a
+       Tambahkan 1 ke variabel a
    
-   Hasilkan bilangan acak b dalam rentang 0 hingga 0.5 menggunakan random.uniform(0, 0.5)
+       Hasilkan bilangan acak b dalam rentang 0 hingga 0.5 menggunakan random.uniform(0, 0.5)
    
-   Tampilkan hasil berupa nomor data ke-a dan nilai b
+       Tampilkan hasil berupa nomor data ke-a dan nilai b
    
 6. Tampilkan pesan "Selesai"
 7. Selesai
