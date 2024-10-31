@@ -1,6 +1,6 @@
 # Latihan 1
 
-A. Algoritma Program
+A. ALGORITMA PROGRAM
 
 1. Mulai program.
 2. Tampilkan pesan "Menampilkan bilangan acak yang lebih kecil dari 0.5".
@@ -25,7 +25,7 @@ B. HASIL OUTPUT PROGRAM
 
 # Latihan 2
 
-A. Algoritma Program
+A. ALGORITMA PROGRAM
 
 1. Mulai program.
 2. Inisialisasi variabel max dengan nilai 0.
@@ -44,3 +44,5 @@ A. Algoritma Program
    
 6. Setelah keluar dari looping, tampilkan "Bilangan terbesar adalah:" diikuti dengan nilai dari max.
 7. Selesai.
+
+B. HASIL OUTPUT PROGRAM
