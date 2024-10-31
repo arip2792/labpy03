@@ -1,6 +1,6 @@
 # Latihan 1
 
-A. Allgoritma Program
+A. Algoritma Program
 
 1. Mulai program.
 2. Tampilkan pesan "Menampilkan bilangan acak yang lebih kecil dari 0.5".
