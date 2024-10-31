@@ -20,6 +20,9 @@ A. ALGORITMA PROGRAM
 
 B. HASIL OUTPUT PROGRAM
 
+![image](https://github.com/user-attachments/assets/09a0e850-9d9c-44b5-a3e6-864be814602d)
+
+
 
 #
 
@@ -46,6 +49,8 @@ A. ALGORITMA PROGRAM
 7. Selesai.
 
 B. HASIL OUTPUT PROGRAM
+
+![image](https://github.com/user-attachments/assets/ff05a5a1-60b5-4cb7-afc6-0358d4e660e4)
 
 
 #
@@ -88,3 +93,6 @@ A. ALGORITMA PROGRAM
 9. Selesai.
 
 B. HASIL OUTPUT PROGRAM
+
+![image](https://github.com/user-attachments/assets/faffbba1-07f3-47cb-b81c-9815e6112ccd)
+
