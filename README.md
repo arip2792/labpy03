@@ -53,4 +53,30 @@ B. HASIL OUTPUT PROGRAM
 # PROGRAM 1
 
 A. ALGORITMA PROGRAM
+
+1. Mulai program.
+2. Inisialisasi variabel a dengan nilai 100.000.000 (modal awal sebesar 100 juta).
+3. Lakukan perulangan untuk setiap nilai m dari 1 hingga 8 (mewakili bulan).
+4. Di dalam perulangan, lakukan pemeriksaan kondisi:
+   
+   Jika m adalah 1 atau 2 (bulan pertama dan kedua):
+     Hitung b sebagai a * 0 (laba 0%).
+     Tampilkan pesan "Laba bulan ke-m sebesar: b".
+
+   Jika m adalah 3 atau 4 (bulan ketiga dan keempat):
+     Hitung c sebagai a * 0.1 (laba 10% dari modal).
+     Tampilkan pesan "Laba bulan ke-m sebesar: c".
+
+   Jika m adalah 5 hingga 7 (bulan kelima hingga ketujuh):
+     Hitung d sebagai a * 0.5 (laba 50% dari modal).
+     Tampilkan pesan "Laba bulan ke-m sebesar: d".
+
+   Jika m adalah 8 (bulan kedelapan):
+     Hitung e sebagai a * 0.2 (laba 20% dari modal).
+     Tampilkan pesan "Laba bulan ke-m sebesar: e".
+
+7. Setelah perulangan selesai, hitung total sebagai penjumlahan dari b, c, d, dan e.
+8. Tampilkan pesan "Total laba adalah: total".
+9. Selesai.
+
 B. HASIL OUTPUT PROGRAM
