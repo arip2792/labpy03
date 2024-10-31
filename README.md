@@ -17,6 +17,7 @@ A. ALGORITMA PROGRAM
    
 6. Tampilkan pesan "Selesai"
 7. Selesai
+   
 
 B. HASIL OUTPUT PROGRAM
 
@@ -47,6 +48,7 @@ A. ALGORITMA PROGRAM
    
 6. Setelah keluar dari looping, tampilkan "Bilangan terbesar adalah:" diikuti dengan nilai dari max.
 7. Selesai.
+   
 
 B. HASIL OUTPUT PROGRAM
 
@@ -91,6 +93,7 @@ A. ALGORITMA PROGRAM
 7. Setelah perulangan selesai, hitung total sebagai penjumlahan dari b, c, d, dan e.
 8. Tampilkan pesan "Total laba adalah: total".
 9. Selesai.
+
 
 B. HASIL OUTPUT PROGRAM
 
