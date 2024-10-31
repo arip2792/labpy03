@@ -18,4 +18,9 @@ A. Algoritma Program
 6. Tampilkan pesan "Selesai"
 7. Selesai
 
+B. HASIL OUTPUT PROGRAM
+
+
+#
+
 # latihan 2
