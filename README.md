@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/64cdfa2f-3ad3-4c89-886f-838f1ebc032e)
+
+
 # Latihan 1
 
 A. ALGORITMA PROGRAM
