@@ -29,7 +29,7 @@ A. ALGORITMA PROGRAM
 
 1. Mulai program.
 2. Inisialisasi variabel max dengan nilai 0.
-3. Masukkan program ke dalam looping(perulangan)tak terbatas (while True), agar program terus meminta input hingga syarat tertentu terpenuhi.
+3. Masukkan program ke dalam looping(perulangan) tak terbatas (while True), agar program terus meminta input hingga syarat tertentu terpenuhi.
 4. Di dalam looping :
    
    Minta pengguna memasukkan bilangan, lalu simpan dalam variabel a.
